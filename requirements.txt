@@ -6,3 +6,7 @@ jupyter
 jupyterlab
 seaborn
 scipy
+parsivar
+hazm
+arabic_reshaper
+bidi

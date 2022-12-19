@@ -1,0 +1,1 @@
+In this Assignment we try to find a suitable solution using uninformed search algorithms (BFS and IDS) and informed search algorithms (A and weighted A) and compare the results. 
